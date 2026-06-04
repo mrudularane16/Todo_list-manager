@@ -1,0 +1,4 @@
+id,task,priority,due_date,status
+1,Write journal,Low,2026-06-04,Pending
+2,Get groceries,High,2026-06-05,Completed
+3,Homework,Medium,2026-06-07,Pending
